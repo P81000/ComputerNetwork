@@ -6,6 +6,7 @@ Guide on how to install the dependencies to run the code.
 - Open a terminal and run the following command to install Apache server:
 
 ´´´bash
+
 $ sudo apt install apache2
 
 ´´´

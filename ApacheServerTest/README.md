@@ -7,7 +7,6 @@ Guide on how to install the dependencies to run the code.
 
 '''bash
 $ sudo apt install apache2
-
 '''
 - To verify if the installation was successful, go to the address 'http://localhost' in your browser and see if an Apache page is displayed.
 - If not, run the following command:
